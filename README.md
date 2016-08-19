@@ -1,2 +1,0 @@
-# MyDraw
-CS475M
